@@ -1,4 +1,5 @@
 # Twitter Banano Tipbot
+This project is currently experimental and in development and I'm not sure it will finish! Just playing around for now.
 
 ## Setup
 create python venv
